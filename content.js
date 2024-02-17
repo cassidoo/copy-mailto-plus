@@ -10,7 +10,7 @@ function copyToClipboard(text) {
 
 function extractEmailDetails(mailtoHref) {
 	const mailtoURL = new URL(mailtoHref);
-	const email = mailtoURL.pathname.substring(1);
+	const email = mailtoURL.pathname;
 	const subject = mailtoURL.searchParams.get("subject") || "";
 	const body = mailtoURL.searchParams.get("body") || "";
 
