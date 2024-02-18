@@ -1,3 +1,7 @@
-# Copy mailto+
+<p align="center">
+    <img alt="Copy mailto+" src="./banner.png">
+</p>
 
-A browser extension that lets you copy an email address, subject, and body from `mailto` links to clipboard.
+# Copy `mailto`+
+
+A free browser extension that makes copying email links painless ✨
