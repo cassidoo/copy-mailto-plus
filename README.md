@@ -6,7 +6,7 @@
 
 A free browser extension that makes copying email links painless ✨
 
-(pending approval in the various webstores)
+[Install from the Chome web store](https://chromewebstore.google.com/detail/copy-mailto+/aogkcfehpjcccedmilfebhdmiceblped)
 
 ## How to use without any of that webstore nonsense
 
