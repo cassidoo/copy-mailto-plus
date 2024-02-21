@@ -6,7 +6,8 @@
 
 A free browser extension that makes copying email links painless ✨
 
-[Install from the Chome web store](https://chromewebstore.google.com/detail/copy-mailto+/aogkcfehpjcccedmilfebhdmiceblped)
+[Install from the Chome Web Store](https://chromewebstore.google.com/detail/copy-mailto+/aogkcfehpjcccedmilfebhdmiceblped)
+[Install from the Edge Add-ons store](https://microsoftedge.microsoft.com/addons/detail/copy-mailto/fiaadeobfpieggpebihdfkgencjhfoon)
 
 ## How to use without any of that webstore nonsense
 
